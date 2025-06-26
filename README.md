@@ -18,7 +18,7 @@
 **~#**  sleep 2
 
 > sudo whoami
-[root@parrot]
+[root@fsociety]
   
   > ./exploit.py -t [ParrotOS] 
 
