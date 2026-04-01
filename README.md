@@ -39,11 +39,14 @@
 <details>
 <summary><code>Decrypting Full Intelligence Dossier...</code></summary>
 
+<br>
+
 - [▌ 0x01_INTERNAL_MONOLOGUE](#-0x01_internal_monologue)
 - [▌ 0x02_OPERATOR_DATA_DOSSIER](#-0x02_operator_data_dossier)
 - [▌ 0x03_TECHNICAL_CAPABILITIES_MATRIX](#-0x03_technical_capabilities_matrix)
 - [▌ 0x04_OFFENSIVE_ARSENAL_STACK](#-0x04_offensive_arsenal_stack)
 - [▌ 0x05_OPERATIONAL_FOOTPRINT](#-0x05_operational_footprint)
+- [▌ 0x05.1_THE_NEXUS: CUSTOM_AI_ORCHESTRATION](#-0x051_the_nexus-custom_ai_orchestration) 
 - [▌ 0x06_LEGAL_DISCLAIMER](#-0x06_legal_disclaimer)
 
 </details>
@@ -184,11 +187,11 @@ graph LR;
 
 <br>
 
-## <samp>▌ <u>0x04_THE_NEXUS: CUSTOM_AI_ORCHESTRATION</u></samp>
+## <samp>▌ <u>0x05.1_THE_NEXUS: CUSTOM_AI_ORCHESTRATION</u></samp>
 
 <details open>
   <summary><code>Accessing AI Framework Status...</code></summary>
-
+  
 <br>
 
 **<samp>[!] Status: <font color="#00ff00">OPERATIONAL</font> | Role: Lead AI Architect & Operator</samp>**
