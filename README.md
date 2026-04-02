@@ -263,6 +263,65 @@ graph LR;
 
 **<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
 
+<br>
+
+## <samp>▌ <u>0x05.2_PROJECTS: CURRENT_OPERATIONS</u></samp>
+
+<details open>
+  <summary><code>Accessing Active Operation Repositories...</code></summary>
+
+<br>
+
+<samp>The following sectors represent the core of my offensive lifecycle. From the development of polymorphic logic to the forensic documentation of real-world intrusions.</samp>
+
+<br><br>
+
+<div align="center">
+
+<!-- Project 01: The Arsenal -->
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="Fsociety00_alderson_core.png" width="350" alt="Alderson Core Logo" style="border: 1px solid #333; border-radius: 5px;"/>
+    </td>
+    <td width="60%" align="left" valign="top">
+      <h3><samp><font color="#ff4500">Fsociety00_alderson_core.dat</font></samp></h3>
+      <samp><b>[ THE ELITE ARSENAL ]</b></samp><br><br>
+      <samp>
+        The central nervous system of weaponized logic. A curated repository of surgical exploits, Local Privilege Escalation (LPE) vectors, and specialized offensive tooling. 
+        <br><br>
+        <i>Focus:</i> Weaponizing CVEs, Kernel-land exploitation, and custom malware engineering designed to bypass EDR/AV headers.
+      </samp>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Project 02: The Methodology -->
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
+  <tr>
+    <td width="60%" align="left" valign="top">
+      <h3><samp><font color="#00adef">Fsociety_Operations_Logs.dat</font></samp></h3>
+      <samp><b>[ THE METHODOLOGY ]</b></samp><br><br>
+      <samp>
+        The forensic blueprint of every intrusion. This sector archives the full lifecycle of my operations, including screen recordings, raw terminal logs, and technical/executive reports.
+        <br><br>
+        <i>Contents:</i> Advanced machine writeups, vulnerability analysis reports, and step-by-step auditing methodologies that bridge the gap between technical compromise and strategic risk.
+      </samp>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="Fsociety_Operations_Logs.png" width="350" alt="Operations Logs Logo" style="border: 1px solid #333; border-radius: 5px;"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+</details>
+
+---
+
 </details>
 
 ## <samp>▌ <u>0x06_LEGAL_DISCLAIMER</u></samp>
