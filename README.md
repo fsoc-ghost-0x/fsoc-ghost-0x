@@ -265,6 +265,7 @@ graph LR;
 **<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
 
 <br>
+<br>
 
 ## <samp>▌ <u>0x05.2_PROJECTS: CURRENT_OPERATIONS</u></samp>
 
@@ -282,16 +283,16 @@ graph LR;
 <!-- Project 01: The Arsenal -->
 <table border="0" cellspacing="0" cellpadding="10" width="100%">
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="Fsociety00_alderson_core.png" width="350" alt="Alderson Core Logo" style="border: 1px solid #333; border-radius: 5px;"/>
+    <td width="350" align="center" valign="center">
+      <img src="https://github.com/user-attachments/assets/813667ec-e3b7-400b-9700-47de1588e50c" width="350" height="auto" alt="Alderson Core Logo" style="border: 2px solid #222; border-radius: 10px;"/>
     </td>
-    <td width="60%" align="left" valign="top">
+    <td align="left" valign="center">
       <h3><samp><font color="#ff4500">Fsociety00_alderson_core.dat</font></samp></h3>
       <samp><b>[ THE ELITE ARSENAL ]</b></samp><br><br>
       <samp>
         The central nervous system of weaponized logic. A curated repository of surgical exploits, Local Privilege Escalation (LPE) vectors, and specialized offensive tooling. 
         <br><br>
-        <i>Focus:</i> Weaponizing CVEs, Kernel-land exploitation, and custom malware engineering designed to bypass EDR/AV headers.
+        <i>Focus:</i> Weaponizing CVEs, Kernel-land exploitation, and custom malware engineering.
       </samp>
     </td>
   </tr>
@@ -302,22 +303,23 @@ graph LR;
 <!-- Project 02: The Methodology -->
 <table border="0" cellspacing="0" cellpadding="10" width="100%">
   <tr>
-    <td width="60%" align="left" valign="top">
+    <td align="left" valign="center">
       <h3><samp><font color="#00adef">Fsociety_Operations_Logs.dat</font></samp></h3>
       <samp><b>[ THE METHODOLOGY ]</b></samp><br><br>
       <samp>
         The forensic blueprint of every intrusion. This sector archives the full lifecycle of my operations, including screen recordings, raw terminal logs, and technical/executive reports.
         <br><br>
-        <i>Contents:</i> Advanced machine writeups, vulnerability analysis reports, and step-by-step auditing methodologies that bridge the gap between technical compromise and strategic risk.
+        <i>Contents:</i> Advanced machine writeups, vulnerability analysis, and step-by-step auditing methodologies.
       </samp>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="Fsociety_Operations_Logs.png" width="350" alt="Operations Logs Logo" style="border: 1px solid #333; border-radius: 5px;"/>
+    <td width="350" align="center" valign="center">
+      <img src="Fsociety_Operations_Logs.png" width="350" height="auto" alt="Operations Logs Logo" style="border: 2px solid #222; border-radius: 10px;"/>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 </details>
 
