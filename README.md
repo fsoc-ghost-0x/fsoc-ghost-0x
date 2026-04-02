@@ -196,13 +196,23 @@ graph LR;
 [<img src="https://img.shields.io/badge/GitHub-Core_Vault-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/fsoc-ghost-0x)
 [<img src="https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />](https://app.hackthebox.com/users/1979983)
 
+<br><br>
+
+<!-- Visual Matrix: Operational Rank -->
+<samp>[ SECTOR: RANK_VERIFICATION ]</samp><br>
+<img src="https://github.com/user-attachments/assets/263b9c21-5ad2-4632-a72b-2ca1def5d333" width="500" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+
+<br><br>
+
+<!-- Visual Matrix: Performance Metrics -->
+<samp>[ SECTOR: OPERATIONAL_METRICS ]</samp><br>
+<img src="https://github.com/user-attachments/assets/e1af5cd7-ec77-436c-b20b-4470dbf1f5c3" width="800" alt="HTB Stats" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+
 <br>
 
 <samp><i>Primary contact through encrypted metadata in repository logs.</i></samp>
 
 </div>
-
-<br>
 
 ## <samp>▌ <u>0x05.1_THE_NEXUS: CUSTOM_AI_ORCHESTRATION</u></samp>
 
