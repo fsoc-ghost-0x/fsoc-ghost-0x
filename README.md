@@ -195,13 +195,19 @@ graph LR;
 <samp>Direct Access to Encrypted Data Streams:</samp>
 
 [<img src="https://img.shields.io/badge/GitHub-Core_Vault-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/fsoc-ghost-0x)
-[<img src="https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />](https://app.hackthebox.com/users/1979983)
+[<img src="https://img.shields.io/badge/HackTheBox-Elite_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />](https://app.hackthebox.com/users/1979983)
 
 <br><br>
 
 <!-- Visual Matrix: Operational Rank -->
 <samp>[ SECTOR: RANK_VERIFICATION ]</samp><br>
 <img src="https://github.com/user-attachments/assets/4a2a95fa-f35b-4173-a61a-09fdcdf1d4c4" width="400" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+
+<br><br>
+
+<!-- Visual Matrix: Operational Rank_Level -->
+<samp>[ SECTOR: RANK_VERIFICATION_LEVEL ]</samp><br>
+<img src="https://github.com/user-attachments/assets/85b7c790-997b-429a-9fb7-a596509c8a61" width="400" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
 
 <br><br>
 
