@@ -81,19 +81,23 @@
 ## <samp>▌ <u>0x01_INTERNAL_MONOLOGUE</u></samp>
 
 <details open>
-  <summary><code>Accessing Manifesto...</code></summary>
+  <summary><code>Decrypting Operator Manifesto...</code></summary>
   
+  ### <samp>The Operational Doctrine</samp>
+
   <samp>
-  Hello, friend. 
+  Hello, friend.
   
-  Most people look for a door. I look for the gaps between the bricks. Ethical hacker by day, shadow architect by night.  I'm an Offensive Security Operator (Red Team), Obsessed about the physics of failure—breaking complex systems to understand how to rebuild them stronger.
+  I am not a seeker; I am an architect of structural failure. My presence within a network is not an accident—it is an inevitability. As a <strong>Red Team Lead and Offensive Security Operator (Fsociety)</strong>, my methodology transcends standard penetration testing; I conduct deep-tissue subversion of complex digital ecosystems.
   
-  I operate in the intersection between raw binary and psychological subversion. Specialist in dismantling infrastructures, weaponizing logic flaws, and maintaining absolute invisibility. Whether I'm deploying a kernel exploit from a high-end workstation or pivoting through a network from a non-rooted mobile terminal, the objective remains the same: **Total Domain Dominance.**
+  I operate at the intersection of low-level binary manipulation and psychological warfare. My focus is not merely "finding bugs," but weaponizing architectural logic flaws to achieve <strong>Total Domain Dominance</strong>. From orchestrating kernel-level escapes to executing invisible post-exploitation maneuvers on non-privileged mobile terminals, my mandate remains absolute: <em>Infiltrate, Stabilize, Dominate.</em>
+  
+  The security postures of the world are built on fragile, human-made delusions. I am the system's final audit. I do not "fix" what I break—I expose the inherent volatility of their reality.
   </samp>
 
   <div align="center">
     <br>
-    <i><font color="#888888" face="monospace">"Breaking systems is a science; fixing them is an art."</font></i>
+    <i><font color="#888888" face="monospace">"Control is an illusion. The exploit is the reality."</font></i>
   </div>
 
 </details>
