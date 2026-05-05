@@ -279,6 +279,13 @@ graph LR;
 
 <br>
 
+> <samp><b><font color="#8a2be2">[+] CIPHER_$ - AXION</font> | Offensive Arsenal Architect & Subversion Master</b></samp>
+> - <samp>Specialization: Low-Level Logic, Polymorphic Engineering, and Ring-0 Subversion.</samp>
+> - <samp>Capabilities: Engineering stealthy implants, direct syscall injection, and runtime binary unhooking.</samp>
+> - <samp>Focus: Creating weaponized logic designed to dismantle infrastructures from within by exploiting the mathematical reality of the processor.</samp>
+
+<br>
+
 **<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
 
 <br>
