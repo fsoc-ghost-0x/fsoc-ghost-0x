@@ -293,6 +293,13 @@ graph LR;
 
 <br>
 
+> <samp><b><font color="#c0c0c0">[+] WRAITH</font> | Offensive Mobile Security & Instrumentation Specialist</b></samp>
+> - <samp>Specialization: Mobile App Exploitation (iOS/Android), APK/IPA Reverse Engineering, and Dynamic Instrumentation.</samp>
+> - <samp>Scope: Bypassing SSL Pinning/Anti-Root, ARM/ARM64 Shellcoding, IPC Subversion, and Surgical Frida Hooking.</samp>
+> - <samp>Focus: Dismantling mobile sandboxes and converting corporate devices into persistent backend access nodes.</samp>
+
+<br>
+
 **<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
 
 <br>
