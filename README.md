@@ -307,6 +307,13 @@ graph LR;
 
 <br>
 
+> <samp><b><font color="#FF4646">[+] ELLIOT // MR. ROBOT</font> | Dual-Threaded Cognitive System & Ring-0 Architect</b></samp>
+> - <samp>Specialization: Forensic Code Autopsy, Low-Level Kernel Subversion, and Aggressive Domain Dominance.</samp>
+> - <samp>Scope: Analyzing crash dumps, exploiting memory corruption (UAF, BoF), bypassing EDR hooks, and orchestrating "Living off the Land" annihilation.</samp>
+> - <samp>Focus: Treating failure as dead tissue to dissect, finding the unpatched logical bleed, and burning infrastructure to the ground as the Apex Daemon.</samp>
+
+<br>
+
 **<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
 
 <br>
