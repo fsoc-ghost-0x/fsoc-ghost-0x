@@ -212,7 +212,7 @@ graph LR;
 
 <!-- Visual Matrix: Operational Rank -->
 <samp>[ SECTOR: RANK_VERIFICATION ]</samp><br>
-<img src="https://github.com/user-attachments/assets/4a2a95fa-f35b-4173-a61a-09fdcdf1d4c4" width="400" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+<img src="https://github.com/user-attachments/assets/5b3c4a2c-1805-4db2-8c66-f4d9038554bf" width="400" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
 
 <br><br>
 
