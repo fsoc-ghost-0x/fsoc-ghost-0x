@@ -218,13 +218,13 @@ graph LR;
 
 <!-- Visual Matrix: Operational Rank_Level -->
 <samp>[ SECTOR: RANK_VERIFICATION_LEVEL ]</samp><br>
-<img src="https://github.com/user-attachments/assets/85b7c790-997b-429a-9fb7-a596509c8a61" width="400" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+<img src="https://github.com/user-attachments/assets/503395bb-3bc7-4a85-9d9e-dccd7c86c200" width="400" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
 
 <br><br>
 
 <!-- Visual Matrix: Performance Metrics -->
 <samp>[ SECTOR: OPERATIONAL_METRICS ]</samp><br>
-<img src="https://github.com/user-attachments/assets/73840998-cef7-48a5-9034-464a33415c86" width="600" alt="HTB Stats" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+<img src="https://github.com/user-attachments/assets/ffe3ef12-05f0-45a2-aa65-a55bccb6de79" width="600" alt="HTB Stats" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
 
 <br>
 
