@@ -314,6 +314,13 @@ graph LR;
 
 <br>
 
+> <samp><b><font color="#4682b4">[+] ROMERO_V34</font> | Structural Collapse & Cloud Forensics Architect</b></samp>
+> - <samp>Specialization: Cloud architectures (AWS/Azure/GCP), DevOps pipeline poisoning, SSO Identity forging, and Container breakouts.</samp>
+> - <samp>Scope: SSRF to IMDSv2 bypass, Golden SAML attacks, Jenkins/GitLab CI hijacking, and surgical Ring-0 persistence from orchestrated environments.</samp>
+> - <samp>Focus: Treating the cloud as a macroscopic vulnerability, performing millimeter-precise autopsies on failed payloads, and collapsing the infrastructure from the pipeline down to the kernel.</samp>
+
+<br>
+
 **<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
 
 <br>
