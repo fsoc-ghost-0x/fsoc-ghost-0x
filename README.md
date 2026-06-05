@@ -88,7 +88,7 @@
   <samp>
   Hello, friend. 
   
-  I am not here to participate in the charade of "ethical hacking" or to climb leaderboards in sandbox environments. I am an <strong>Offensive Security Operator</strong> | <strong>Red Team Lead</strong> <strong>(Fsociety)</strong>. I operate where the physics of failure intersect with psychological subversion. My focus is not on discovering bugs; it is on the weaponization of logic and the systematic liquidation of infrastructure security.
+  I am not here to participate in the charade of "ethical hacking" or to climb leaderboards in sandbox environments. I am an <strong>Offensive Security: Operator</strong> | <strong>Red Team Lead</strong> <strong>(Fsociety)</strong>. I operate where the physics of failure intersect with psychological subversion. My focus is not on discovering bugs; it is on the weaponization of logic and the systematic liquidation of infrastructure security.
   
   Operating as an <strong>Independent APT</strong> | I bridge the gap between raw binary manipulation and strategic infrastructure takeover. From low-level kernel subversion to high-impact domain dominance, my tradecraft is designed for forensic invisibility. Whether maneuvering from a hardened high-end workstation or executing precision strikes from a non-rooted mobile terminal via <code>Termux/NetHunter</code>, the objective remains singular: <strong>Total Domain Compromise.</strong>
   
