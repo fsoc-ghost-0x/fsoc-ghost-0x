@@ -98,7 +98,7 @@
 <div align="center">
   <br>
   <i><font color="#ff4500" face="monospace">"Control is an illusion. I am the exploit."</font></i><br><br>
-  <i><font color="#888888" face="monospace">"LOYALITY is what keeps stone castles and empires standing; they remain impervious for centuries."</font></i>
+  <i><font color="#888888" face="monospace">"LOYALTY is what keeps stone castles and empires standing; they remain impervious for centuries."</font></i>
 </div>
 
 </details>
