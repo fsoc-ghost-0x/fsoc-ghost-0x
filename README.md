@@ -95,10 +95,11 @@
   I don't seek the light; I thrive in the dark-mode of the kernel. I am the architect of the shadow systems that govern your reality.
   </samp>
 
-  <div align="center">
-    <br>
-    <i><font color="#ff4500" face="monospace">"Control is an illusion. I am the exploit."</font></i>
-  </div>
+<div align="center">
+  <br>
+  <i><font color="#ff4500" face="monospace">"Control is an illusion. I am the exploit."</font></i><br><br>
+  <i><font color="#888888" face="monospace">"Loyalty is what keeps stone castles and empires standing; they remain impervious for centuries."</font></i>
+</div>
 
 </details>
 
