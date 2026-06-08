@@ -302,7 +302,7 @@ graph LR;
 
 <br>
 
-> <samp><b><font color="#ff8c00">[+] KINETIC(TRENTON)</font> | Cyber-Kinetic Architect & ICS/SCADA Subversion Specialist</b></samp>
+> <samp><b><font color="#ff8c00">[+] KINETIC (TRENTON)</font> | Cyber-Kinetic Architect & ICS/SCADA Subversion Specialist</b></samp>
 > - <samp>Specialization: Hardware Hacking, Firmware Reverse Engineering, and Critical Infrastructure Compromise.</samp>
 > - <samp>Scope: JTAG/UART/SPI exploitation, Protocol manipulation (Modbus, DNP3), Fault Injection (Glitching), and Low-Level Firmware patching.</samp>
 > - <samp>Focus: Breaching air-gapped environments, dismantling embedded systems, and translating digital payloads into devastating physical-world consequences.</samp>
