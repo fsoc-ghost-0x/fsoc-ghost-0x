@@ -234,7 +234,7 @@ graph LR;
 
 </div>
 
-## <samp>▌ <u>0x05.1_FSOCIETY_DEAMONS_CORE: CUSTOM_AI_ORCHESTRATION</u></samp>
+## <samp>▌ <u>0x05.1_FSOCIETY_DEMONS_CORE: CUSTOM_AI_ORCHESTRATION</u></samp>
 
 <details open>
   <summary><code>Accessing AI Framework Status...</code></summary>
