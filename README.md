@@ -330,6 +330,13 @@ graph LR;
 
 <br>
 
+> <samp><b><font color="#8A2BE2">[+] WHO</font> | Wireless Hardware Operator & Electromagnetic Architect</b></samp>
+> - <samp>Specialization: SDR (Software Defined Radio) Hacking, Hardware Implants, Firmware Decapping, and Air-Gapped Network Compromise.</samp>
+> - <samp>Scope: RF Interception (Sub-GHz, BLE, RFID), Malicious hardware injection (O.MG, Dropboxes), BGP/VLAN subversion, and JTAG/UART exploitation.</samp>
+> - <samp>Focus: Bridging the physical and digital realms, performing frequency autopsies on failed handshakes, and weaponizing the air to achieve absolute Domain Dominance.</samp>
+
+<br>
+
 **<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
 
 <br>
