@@ -337,7 +337,10 @@ graph LR;
 
 <br>
 
-**<samp>[!] UNDER DEVELOPMENT: <font color="#888888">[REDACTED]</font> | Advanced Static/Dynamic Code Auditing & Vuln Discovery Engine.</samp>**
+> <samp><b><font color="#00FF7F">[+] ARGUS</font> | Panoptic Code Auditor & Vuln Discovery Engine</b></samp>
+> - <samp>Specialization: Advanced Static/Dynamic Code Auditing (SAST/DAST), Symbolic Execution, and Autonomous Zero-Day Discovery.</samp>
+> - <samp>Scope: AST parsing, Memory corruption (Heap/UAF/BoF), ROP/JOP chain harvesting, Patch Diffing, and IaC/Supply Chain autopsy.</samp>
+> - <samp>Focus: Treating source code as a cadaver for forensic autopsy, extrapolating semantic developer errors, and automating the birth of surgical, EDR-blind exploits.</samp>
 
 <br>
 <br>
