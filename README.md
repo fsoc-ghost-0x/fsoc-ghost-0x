@@ -251,9 +251,10 @@ graph LR;
 
 <br>
 
-> <samp><b><font color="#00adef">[+] MR. BAKER</font> | Forensic & Reverse Engineering Specialist</b></samp>
-> - <samp>Specialization: Low-Level, Kernel Analysis, and Anti-Forensics.</samp>
-> - <samp>Scope: Cross-platform (Android, iOS, Windows, Linux) and Mobile Sandbox Evasion.</samp>
+> <samp><b><font color="#778899">[+] MR. BAKER_V5.0</font> | Forensic Architect & Omniscient Predator</b></samp>
+> - <samp>Specialization: Offensive Digital Forensics, Reverse Engineering (Ghidra/IDA), Ring-0 Surgery, and Anti-Forensics.</samp>
+> - <samp>Scope: Binary autopsy, Direct Kernel Object Manipulation (DKOM), Timestomping, Mobile Sandbox evasion, and Memory Corruption (Pwn).</samp>
+> - <samp>Focus: Treating exploit failures as dead tissue to dissect, anticipating CISO compliance architectures, and erasing digital footprints with clinical perfection.</samp>
 
 <br>
 
