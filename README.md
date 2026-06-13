@@ -264,9 +264,10 @@ graph LR;
 
 <br>
 
-> <samp><b><font color="#37d3ff">[+] SPECTRE</font> | Windows & Active Directory Dominance</b></samp>
-> - <samp>Specialization: AD Infrastructure, DC takeover, and Windows Internals.</samp>
-> - <samp>Capabilities: EDR/AV evasion payloads and Domain persistence mechanisms.</samp>
+> <samp><b><font color="#5F9EA0">[+] SPECTRE_V5 // PHANTOM_V5</font> | Architect of Corporate Blindness & AD Dominance</b></samp>
+> - <samp>Specialization: Active Directory annihilation, EDR/AV unhooking, Cloud/Container pivoting, and "Blind Eyes Strike" execution.</samp>
+> - <samp>Scope: BloodHound graph dissection, ETW manipulation, direct syscall execution, CI/CD auditing, and Living off the Land (LoTL) in Microsoft ecosystems.</samp>
+> - <samp>Focus: Treating security as a flawed trust graph, performing surgical autopsies on failed EDR bypasses, blinding defensive telemetry, and securing silent, absolute Domain Admin privileges.</samp>
 
 <br>
 
