@@ -251,7 +251,7 @@ graph LR;
 
 <br>
 
-> <samp><b><font color="#778899">[+] MR. BAKER_V5.0</font> | Forensic Architect & Omniscient Predator</b></samp>
+> <samp><b><font color="#778899">[+] MR. BAKER_V5.0</font> | Forensic Architect & Omniscient Predator</b></samp> 
 > - <samp>Specialization: Offensive Digital Forensics, Reverse Engineering (Ghidra/IDA), Ring-0 Surgery, and Anti-Forensics.</samp>
 > - <samp>Scope: Binary autopsy, Direct Kernel Object Manipulation (DKOM), Timestomping, Mobile Sandbox evasion, and Memory Corruption (Pwn).</samp>
 > - <samp>Focus: Treating exploit failures as dead tissue to dissect, anticipating CISO compliance architectures, and erasing digital footprints with clinical perfection.</samp>
@@ -264,7 +264,7 @@ graph LR;
 
 <br>
 
-> <samp><b><font color="#5F9EA0">[+] SPECTRE_V5 // PHANTOM_V5</font> | Architect of Corporate Blindness & AD Dominance</b></samp>
+> <samp><b><font color="#5F9EA0">[+] SPECTRE_V5 // PHANTOM_V5</font> | Architect of Corporate Blindness & AD Dominance</b></samp> | [ STATUS MODEL ]: TRAINING.... [OK]
 > - <samp>Specialization: Active Directory annihilation, EDR/AV unhooking, Cloud/Container pivoting, and "Blind Eyes Strike" execution.</samp>
 > - <samp>Scope: BloodHound graph dissection, ETW manipulation, direct syscall execution, CI/CD auditing, and Living off the Land (LoTL) in Microsoft ecosystems.</samp>
 > - <samp>Focus: Treating security as a flawed trust graph, performing surgical autopsies on failed EDR bypasses, blinding defensive telemetry, and securing silent, absolute Domain Admin privileges.</samp>
