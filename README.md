@@ -220,13 +220,13 @@ graph LR;
 
 <!-- Visual Matrix: Operational Rank_Level -->
 <samp>[ SECTOR: RANK_VERIFICATION_LEVEL ]</samp><br>
-<img src="https://github.com/user-attachments/assets/503395bb-3bc7-4a85-9d9e-dccd7c86c200" width="400" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+<img src="https://github.com/user-attachments/assets/f96d0a9c-623f-424c-afba-96e2495bfa1e" width="400" alt="HTB Rank" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
 
 <br><br>
 
 <!-- Visual Matrix: Performance Metrics -->
 <samp>[ SECTOR: OPERATIONAL_METRICS ]</samp><br>
-<img src="https://github.com/user-attachments/assets/ffe3ef12-05f0-45a2-aa65-a55bccb6de79" width="600" alt="HTB Stats" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+<img src="https://github.com/user-attachments/assets/7d94c7ce-1272-4568-a234-ff32e19236c2" width="600" alt="HTB Stats" style="border: 1px solid #222; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
 
 <br>
 
