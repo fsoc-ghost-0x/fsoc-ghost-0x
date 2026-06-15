@@ -29,7 +29,7 @@
       <img src="https://github.com/user-attachments/assets/d4224f37-43ca-4643-b4e6-d1bd08bde803" width="350" alt="HTB HOLO TIER" style="border-radius: 10px; border: 1px solid #333;"/>
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/90caff0d-a267-45b6-9385-99f60d238c6f" width="350" alt="HTB Global Profile" style="border-radius: 10px; border: 1px solid #333;"/>
+      <img src="https://github.com/user-attachments/assets/2a63ff0b-4ef1-4d77-820a-7977a77f4300" width="350" alt="HTB Global Profile" style="border-radius: 10px; border: 1px solid #333;"/>
     </td>
   </tr>
   <tr>
