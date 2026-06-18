@@ -159,7 +159,7 @@
 | <samp><code>Low-Level</code></samp> | <samp>Kernel-land Research & Buffer Overflows</samp> | <samp><font color="#00ff00">SYSTEM_ROOT</font></samp> |
 | <samp><code>Forensics</code></samp> | <samp>Evidence Recovery & Malware Dissection</samp> | <samp><font color="#f5ba14">INVESTIGATOR</font></samp> |
 | <samp><code>ICS/SCADA</code></samp> | <samp>Hacking ICS / SCADA & Cyber-Kinetic Subversion</samp> | <samp><font color="#ff8c00">KINETIC_ROOT</font></samp> |
-| <samp><code>Intelligence</code></samp> | <samp>OSINT, Contra Inteligencia, Offensive Threat Intelligence</samp> | <samp><font color="#888888">GHOST_LEVEL</font></samp> |
+| <samp><code>Intelligence</code></samp> | <samp>OSINT, Counter Intelligence, Offensive Threat Intelligence</samp> | <samp><font color="#888888">GHOST_LEVEL</font></samp> |
 | <samp><code>Containers</code></samp> | <samp>Containers — Docker & Kubernetes (Container Breakout)</samp> | <samp><font color="#00adef">CLUSTER_ADMIN</font></samp> |
 | <samp><code>Wireless</code></samp> | <samp>Hacking Wireless & 802.11 Protocol Subversion</samp> | <samp><font color="#8a2be2">AIR_DOMAIN</font></samp> |
 | <samp><code>Network</code></samp> | <samp>Hacking Network & L2/L3 Protocol Exploitation</samp> | <samp><font color="#00ff00">NETWORK_ROOT</font></samp> |
