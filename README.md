@@ -158,6 +158,17 @@
 | <samp><code>Cloud/Web</code></samp> | <samp>API Security & Insecure Deserialization</samp> | <samp><font color="#00adef">ADVANCED</font></samp> |
 | <samp><code>Low-Level</code></samp> | <samp>Kernel-land Research & Buffer Overflows</samp> | <samp><font color="#00ff00">SYSTEM_ROOT</font></samp> |
 | <samp><code>Forensics</code></samp> | <samp>Evidence Recovery & Malware Dissection</samp> | <samp><font color="#f5ba14">INVESTIGATOR</font></samp> |
+| <samp><code>ICS/SCADA</code></samp> | <samp>Hacking ICS / SCADA & Cyber-Kinetic Subversion</samp> | <samp><font color="#ff8c00">KINETIC_ROOT</font></samp> |
+| <samp><code>Intelligence</code></samp> | <samp>OSINT, Contra Inteligencia, Offensive Threat Intelligence</samp> | <samp><font color="#888888">GHOST_LEVEL</font></samp> |
+| <samp><code>Containers</code></samp> | <samp>Containers — Docker & Kubernetes (Container Breakout)</samp> | <samp><font color="#00adef">CLUSTER_ADMIN</font></samp> |
+| <samp><code>Wireless</code></samp> | <samp>Hacking Wireless & 802.11 Protocol Subversion</samp> | <samp><font color="#8a2be2">AIR_DOMAIN</font></samp> |
+| <samp><code>Network</code></samp> | <samp>Hacking Network & L2/L3 Protocol Exploitation</samp> | <samp><font color="#00ff00">NETWORK_ROOT</font></samp> |
+| <samp><code>RF/SDR</code></samp> | <samp>Hacking RadioFrecuencia (RF) & Spectrum Dominance</samp> | <samp><font color="#8a2be2">SPECTRUM_ADMIN</font></samp> |
+| <samp><code>Hardware</code></samp> | <samp>Hardware Hacking & Physical Infiltration</samp> | <samp><font color="#ff4500">SILICON_ROOT</font></samp> |
+| <samp><code>IAM/SSO</code></samp> | <samp>Hacking SSO_SECURITY & Identity Forging</samp> | <samp><font color="#ff4500">IDENTITY_ADMIN</font></samp> |
+| <samp><code>Supply_Chain</code></samp> | <samp>Hacking DEVOPS_&_CI_CD Pipeline Poisoning</samp> | <samp><font color="#f5ba14">PIPELINE_ROOT</font></samp> |
+| <samp><code>Enterprise</code></samp> | <samp>Hacking ENTERPRISE_APPS_&_CMS Logic Flaws</samp> | <samp><font color="#00adef">APP_ADMIN</font></samp> |
+| <samp><code>Crypto</code></samp> | <samp>Hacking Crypto, Blockchains & Ledger Subversion</samp> | <samp><font color="#4682b4">LEDGER_ROOT</font></samp> |
 
 <br>
 
